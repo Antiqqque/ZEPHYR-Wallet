@@ -1,6 +1,6 @@
 {
     "RPCProvider": "https://ethereum.publicnode.com",
-    "privateKey": "",
+    "encryptedPrivateKey": "",
     "publicKey": "",
     "chainId": 1
 }
