@@ -15,7 +15,7 @@ Doesn't store or send any personal data like IP address to anyone, except the ch
 
     ```pip --version```
 
-    If pip is not installed, you can install it by following the instructions provided in the official pip documentation: pip.pypa.io/en/stable/installing/
+    If pip is not installed, you can install it by following the instructions provided in the official pip documentation [here](https://pip.pypa.io/en/stable/installation/)
 
 3. Install project dependencies
 
